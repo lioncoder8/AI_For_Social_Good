@@ -55,6 +55,3 @@ Results of different methods applied
 - `cd Flask`
 - `python app.py`
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.<br/>
